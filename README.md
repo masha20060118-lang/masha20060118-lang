@@ -4,4 +4,4 @@
 
 ## Мои проекты:
 - [Тестирование поиска на сайте Самокат](https://github.com/masha20060118-lang/samokat-testing)
-- [Тестирование корзины в приложении Пятерочка] (https://github.com/masha20060118-lang/pyaterochka-app-cart-testing/tree/main)
+- [Тестирование корзины в приложении Пятерочка](https://github.com/masha20060118-lang/pyaterochka-app-cart-testing/tree/main)
