@@ -3,4 +3,4 @@
 Я начинающий QA-инженер.
 
 ## Мои проекты:
-- [Тестирование поиска на сайте Самокат]https://github.com/masha20060118-lang/samokat-testing
+- [Тестирование поиска на сайте Самокат](https://github.com/masha20060118-lang/samokat-testing)
